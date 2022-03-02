@@ -1,11 +1,11 @@
-### Hi there 👋
-
-## Hi, 👋  I'm <a href="" target="_blank">阿呆(ADaisz)</a> <sup>
 <!-- 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> -->
+reference:https://github.com/ouuan/ouuan
+ -->
+
+## Hi, ADaisz here!👋 
+
 
 <br>
-
 
 <p align="center">
   <a href="https://github.com/ADaisz" class="rich-diff-level-one">
@@ -43,20 +43,17 @@
  
 <br>
 
-📊 **This Week I Spent My Time On:**
+#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
+
 <!--START_SECTION:waka-->
 ```text
-C/C++      5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
-PyTorch    1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Python     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Markdown   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-JSON       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Others     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+Markdown   17 hrs 58 mins  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.31 % 
+C++        13 hrs 29 mins  🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.48 % 
+Python     8 hrs 59 mins   🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.66 % 
+text       4 hrs 33 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.92 % 
+Shell      4 hrs 9 mins    🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.30 % 
 ```
 <!--END_SECTION:waka-->
-
-If you like what I do, maybe consider buying me a ☕ coffee/tea or 🍰 cake please 🥺👉👈  
-
 
 ---
 
