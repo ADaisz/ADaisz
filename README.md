@@ -17,7 +17,6 @@ reference:https://github.com/ouuan/ouuan
 </p>
 
 <p align="center">
-  <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/ADaisz">
