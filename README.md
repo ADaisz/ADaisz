@@ -9,7 +9,7 @@ reference:https://github.com/ouuan/ouuan
 
 <p align="center">
   <a href="https://github.com/ADaisz" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=ADaisz" >
+    <img src="https://github-readme-stats.vercel.app/api?username=ADaisz&theme=dark" >
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=ADaisz&hide=issues&title_color=333&text_color=777" alt="ADaisz's Stats" >
     -->
@@ -34,9 +34,6 @@ reference:https://github.com/ouuan/ouuan
   </a>
 </p>
 
-<h2></h2>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- stackoverflow profile
 <a href="https://stackoverflow.com/users/8317261/charmve"><img align="right" alt="Profile of ADaisz (张伟) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>-->
