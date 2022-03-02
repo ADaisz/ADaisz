@@ -33,12 +33,6 @@ reference:https://github.com/ouuan/ouuan
   </a>
 </p>
 
-
-<!-- stackoverflow profile
-<a href="https://stackoverflow.com/users/8317261/charmve"><img align="right" alt="Profile of ADaisz (张伟) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>-->
- 
-<br>
-
 #### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
