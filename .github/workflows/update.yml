@@ -1,10 +1,18 @@
-version: 2
-updates:
-- package-ecosystem: github-actions
-  directory: "/"
+name: WakaTime Readme
+
+on:
   schedule:
-    interval: weekly
-    day: saturday
-    time: "15:00"
-    timezone: Asia/Shanghai
-  open-pull-requests-limit: 10
+    - cron: '0 20 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ADaisz/ADaisz@1days
+        with:
+          API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
+          COMMIT_MESSAGE: Update Wakapi stats
+          WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
+          BLOCKS: "⬜🟨🟩"
+
