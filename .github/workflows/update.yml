@@ -1,18 +1,17 @@
-name: WakaTime Readme
+name: ADaisz Readme
 
 on:
-  schedule:
-    - cron: '0 20 * * *'
   workflow_dispatch:
+  schedule:
+    # Runs at every 12AM UTC
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: ADaisz/ADaisz@1days
+      - uses: ADaisz/ADaisz@master
         with:
-          API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
-          COMMIT_MESSAGE: Update Wakapi stats
-          WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
-          BLOCKS: "⬜🟨🟩"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
