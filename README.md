@@ -23,19 +23,16 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/ADaisz">
-    <img src="https://badges.pufler.dev/visits/ADaisz/ADaisz?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/ADaisz/ADaisz?style=flat-square&logo=github">
   </a>
   <a href="https://github.com/ADaisz">
-    <img src="https://badges.pufler.dev/years/ADaisz?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/ADaisz?style=flat-square&logo=github">
   </a>
   <a href="https://github.com/ADaisz?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/ADaisz?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/ADaisz">
-    <img src="https://badges.pufler.dev/gists/ADaisz?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/ADaisz?style=flat-square&logo=github">
   </a>
   <a href="https://github.com/ADaisz">
-    <img src="https://badges.pufler.dev/commits/monthly/ADaisz?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/commits/monthly/ADaisz?style=flat-square&logo=github">
   </a>
 </p>
 
