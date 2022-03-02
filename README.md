@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Hi, 👋  I'm <a href="" target="_blank">Zhong Sun(ADaisz)</a> <sup><a href="https://github.com/ADaisz/ADaisz/blob/master/OctoADaisz/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>
+## Hi, ADaisz here!👋 
 <!-- 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> -->
 
