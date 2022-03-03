@@ -31,13 +31,7 @@ I'm an **Undergrad Student🎓 [@USTC](https://www.ustc.edu.cn/)** pursuing CS. 
 
 ###  🖥️ My DevSetup  
 
-<img src="https://img.shields.io/badge/Linux-555555.svg?&style=flat-square&logo=Linux&logoColor=E2231A"> 
-<img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> 
-<img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> 
-<img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> 
-<img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> 
-<img src="https://img.shields.io/badge/Github-555555.svg?&style=flat-square&logo=github&logoColor=FFFFFF"> 
-<img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC">  
+<img src="https://img.shields.io/badge/Linux-555555.svg?&style=flat-square&logo=Linux&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Github-555555.svg?&style=flat-square&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC">  
 
 
 <!-- ### ⚙️ Some Tool and Tech I use
