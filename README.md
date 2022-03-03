@@ -8,10 +8,10 @@ Howdy!, I am <a href="https://github.com/ADaisz">ADaisz</a>
 I'm an **Undergrad Student🎓 [@USTC](https://www.ustc.edu.cn/)** pursuing CS.  <br/><br/>
 
 ## ⚡️ A Few Quick Facts
-
+<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 - 🔭 I’m currently working on SDN Project
 - 🌱 I’m currently learning C & C++
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Deep Learning
