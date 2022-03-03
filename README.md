@@ -2,15 +2,10 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 Howdy!, I am <a href="https://github.com/ADaisz">ADaisz</a> 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">  
-
-<p align="right">右对齐  
-《
-![Profile Views](https://komarev.com/ghpvc/?username=ADaisz)
-</p>
 </h1>  
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> 
-I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing CS. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an **Undergrad Student🎓 [@USTC](https://www.ustc.edu.cn/)** pursuing CS.  <br/><br/>
 
 ## ⚡️ A Few Quick Facts
 
@@ -70,7 +65,9 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 src="https://github-readme-stats-defcon27.vercel.app/api?username=ADaisz&show_icons=true&line_height=21&theme=react" alt="ADaisz's Github Stats" />
 <img width="340" align="center" 
 src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=ADaisz&langs_count=6&theme=react&line_height=27&layout=compact" />  
-</p> 
+</p>   
+
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=ADaisz) -->
 
 
 ### 📬 Find me at
